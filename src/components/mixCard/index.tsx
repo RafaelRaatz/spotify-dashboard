@@ -1,0 +1,1 @@
+export { MixCard } from './mixCard';
